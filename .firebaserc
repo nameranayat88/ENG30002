@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "smart-parking-437111",
+    "no": "smart-parking-app-e0a65",
+    "production": "smart-parking-app-e0a65"
+  },
+  "targets": {},
+  "etags": {}
+}
