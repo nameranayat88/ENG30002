@@ -73,8 +73,8 @@ The live version of the application is available here: [Smart Parking & EV Charg
 
 This project is developed by a team of software engineering students:
 
-- Dewan Md Amir Jahir
-- Namera Nayat
-- Tafriha Tahsin
-- Abrar Taslim
-- Mohammad Imamul Hossain
+- [Dewan Md Amir Jahir](https://github.com/AmirAX17)
+- [Namera Nayat](https://github.com/nameranayat88)
+- [Tafriha Tahsin](https://github.com/Tafriha)
+- [Abrar Taslim](https://github.com/Abrar914)
+- [Mohammad Imamul Hossain](https://github.com/Mursalin1075)
