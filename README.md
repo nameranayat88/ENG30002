@@ -71,7 +71,7 @@ The live version of the application is available here: [Smart Parking & EV Charg
 ### Project Team
 ---
 
-This project is developed by a team of software engineering students:
+This project is developed by a team of software engineering and electrical & electronic engineering students:
 
 - [Dewan Md Amir Jahir](https://github.com/AmirAX17)
 - [Namera Nayat](https://github.com/nameranayat88)
