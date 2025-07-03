@@ -42,13 +42,15 @@ To run linting and automatically fix code style issues, use:
 
 `npm run lint`
 
-backend run : 
+
+
+Backend run : 
 
 `cd ai-backend/`
 
 `nodemon index.js`
 
-frontend run : (No need to go to any seperate folder) 
+Frontend run : (No need to go to any seperate folder) 
 
 `npm run serve`
 
